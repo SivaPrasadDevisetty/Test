@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40515" started-at="2024-03-01T09:54:33 IST" finished-at="2024-03-01T09:55:14 IST">
+    <groups>
+    </groups>
+    <test name="C:\Users\DELL\eclipse-workspace\assessment" duration-ms="40515" started-at="2024-03-01T09:54:33 IST" finished-at="2024-03-01T09:55:14 IST">
+      <class name="TestNGAutomation.AutomationAnywhereAppValidation">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:TestNGAutomation.AutomationAnywhereAppValidation@1e965684]" name="initialization" is-config="true" duration-ms="6066" started-at="2024-03-01T09:54:33 IST" finished-at="2024-03-01T09:54:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="AutomationAnywhereAppPageValidation()[pri:0, instance:TestNGAutomation.AutomationAnywhereAppValidation@1e965684]" name="AutomationAnywhereAppPageValidation" duration-ms="28683" started-at="2024-03-01T09:54:39 IST" finished-at="2024-03-01T09:55:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutomationAnywhereAppPageValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestNGAutomation.AutomationAnywhereAppValidation@1e965684]" name="tearDown" is-config="true" duration-ms="930" started-at="2024-03-01T09:55:08 IST" finished-at="2024-03-01T09:55:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initialization()[pri:0, instance:TestNGAutomation.AutomationAnywhereAppValidation@1e965684]" name="initialization" is-config="true" duration-ms="3682" started-at="2024-03-01T09:55:09 IST" finished-at="2024-03-01T09:55:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="LogoValidationTest()[pri:0, instance:TestNGAutomation.AutomationAnywhereAppValidation@1e965684]" name="LogoValidationTest" duration-ms="427" started-at="2024-03-01T09:55:13 IST" finished-at="2024-03-01T09:55:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoValidationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestNGAutomation.AutomationAnywhereAppValidation@1e965684]" name="tearDown" is-config="true" duration-ms="657" started-at="2024-03-01T09:55:13 IST" finished-at="2024-03-01T09:55:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestNGAutomation.AutomationAnywhereAppValidation -->
+    </test> <!-- C:\Users\DELL\eclipse-workspace\assessment -->
+  </suite> <!-- Suite -->
+</testng-results>
